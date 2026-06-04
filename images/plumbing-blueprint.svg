@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 520" fill="none" aria-hidden="true">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#5eb8d4" stroke-width="0.35" opacity="0.25"/>
+    </pattern>
+    <marker id="arrow" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#5eb8d4" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="420" height="520" fill="url(#grid)"/>
+  <rect x="24" y="24" width="140" height="52" stroke="#5eb8d4" stroke-width="1" opacity="0.5"/>
+  <text x="32" y="44" fill="#5eb8d4" font-family="monospace" font-size="9" opacity="0.7" letter-spacing="0.08em">PRECISION PLUMBING</text>
+  <text x="32" y="60" fill="#5eb8d4" font-family="monospace" font-size="8" opacity="0.5">RES. BATH - PLAN VIEW</text>
+  <text x="32" y="72" fill="#5eb8d4" font-family="monospace" font-size="7" opacity="0.4">SCALE 1/4 IN = 1 FT</text>
+  <rect x="80" y="100" width="280" height="360" stroke="#5eb8d4" stroke-width="1.5" opacity="0.55"/>
+  <line x1="210" y1="100" x2="210" y2="460" stroke="#5eb8d4" stroke-width="0.75" stroke-dasharray="6 4" opacity="0.35"/>
+  <ellipse cx="130" cy="180" rx="22" ry="28" stroke="#5eb8d4" stroke-width="1.2" opacity="0.6"/>
+  <rect x="118" y="155" width="24" height="14" stroke="#5eb8d4" stroke-width="1" opacity="0.5"/>
+  <text x="108" y="220" fill="#5eb8d4" font-family="monospace" font-size="7" opacity="0.45">WC</text>
+  <rect x="250" y="130" width="80" height="36" stroke="#5eb8d4" stroke-width="1.2" opacity="0.6"/>
+  <ellipse cx="290" cy="148" rx="14" ry="10" stroke="#5eb8d4" stroke-width="1" opacity="0.55"/>
+  <text x="268" y="185" fill="#5eb8d4" font-family="monospace" font-size="7" opacity="0.45">LAV</text>
+  <rect x="250" y="280" width="100" height="56" rx="8" stroke="#5eb8d4" stroke-width="1.2" opacity="0.6"/>
+  <text x="278" y="355" fill="#5eb8d4" font-family="monospace" font-size="7" opacity="0.45">TUB</text>
+  <rect x="90" y="300" width="72" height="72" stroke="#5eb8d4" stroke-width="1.2" opacity="0.6"/>
+  <circle cx="126" cy="336" r="6" stroke="#5eb8d4" stroke-width="0.8" opacity="0.5"/>
+  <text x="108" y="390" fill="#5eb8d4" font-family="monospace" font-size="7" opacity="0.45">SHWR</text>
+  <line x1="130" y1="208" x2="130" y2="420" stroke="#5eb8d4" stroke-width="2.5" opacity="0.5"/>
+  <line x1="290" y1="166" x2="290" y2="420" stroke="#5eb8d4" stroke-width="1.5" opacity="0.45"/>
+  <line x1="300" y1="336" x2="300" y2="420" stroke="#5eb8d4" stroke-width="1.5" opacity="0.45"/>
+  <line x1="126" y1="372" x2="126" y2="420" stroke="#5eb8d4" stroke-width="1.2" opacity="0.4"/>
+  <line x1="130" y1="250" x2="200" y2="250" stroke="#5eb8d4" stroke-width="1.2" opacity="0.4"/>
+  <line x1="200" y1="250" x2="290" y2="166" stroke="#5eb8d4" stroke-width="1.2" opacity="0.4"/>
+  <line x1="130" y1="320" x2="126" y2="372" stroke="#5eb8d4" stroke-width="1.2" opacity="0.4"/>
+  <path d="M 340 120 L 340 148 L 290 148" stroke="#e09040" stroke-width="1" stroke-dasharray="4 3" opacity="0.45"/>
+  <text x="344" y="135" fill="#e09040" font-family="monospace" font-size="6" opacity="0.5">H</text>
+  <path d="M 360 120 L 360 160 L 290 160" stroke="#5eb8d4" stroke-width="1" opacity="0.45"/>
+  <text x="364" y="135" fill="#5eb8d4" font-family="monospace" font-size="6" opacity="0.5">C</text>
+  <path d="M 130 208 L 130 88 L 100 88" stroke="#5eb8d4" stroke-width="1" stroke-dasharray="3 2" opacity="0.35"/>
+  <text x="72" y="92" fill="#5eb8d4" font-family="monospace" font-size="6" opacity="0.4">VENT</text>
+  <circle cx="340" cy="148" r="4" stroke="#5eb8d4" stroke-width="1" opacity="0.55"/>
+  <circle cx="360" cy="160" r="4" stroke="#5eb8d4" stroke-width="1" opacity="0.55"/>
+  <circle cx="200" cy="250" r="4" stroke="#5eb8d4" stroke-width="1" opacity="0.5"/>
+  <circle cx="130" cy="420" r="7" stroke="#5eb8d4" stroke-width="1" opacity="0.5"/>
+  <line x1="123" y1="420" x2="137" y2="420" stroke="#5eb8d4" stroke-width="0.8" opacity="0.5"/>
+  <line x1="130" y1="413" x2="130" y2="427" stroke="#5eb8d4" stroke-width="0.8" opacity="0.5"/>
+  <line x1="80" y1="480" x2="360" y2="480" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="80" y1="472" x2="80" y2="488" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35"/>
+  <line x1="360" y1="472" x2="360" y2="488" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35"/>
+  <text x="195" y="498" fill="#5eb8d4" font-family="monospace" font-size="8" opacity="0.45" text-anchor="middle">11 FT</text>
+  <line x1="48" y1="100" x2="48" y2="460" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="40" y1="100" x2="56" y2="100" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35"/>
+  <line x1="40" y1="460" x2="56" y2="460" stroke="#5eb8d4" stroke-width="0.6" opacity="0.35"/>
+  <text x="38" y="285" fill="#5eb8d4" font-family="monospace" font-size="8" opacity="0.45" text-anchor="middle" transform="rotate(-90 38 285)">12 FT</text>
+  <g transform="translate(330, 44)" opacity="0.5">
+    <polygon points="0,-14 4,0 -4,0" fill="#5eb8d4"/>
+    <text x="0" y="18" fill="#5eb8d4" font-family="monospace" font-size="7" text-anchor="middle">N</text>
+  </g>
+  <text x="280" y="500" fill="#5eb8d4" font-family="monospace" font-size="6" opacity="0.35">DWG. PP-104 REV. A</text>
+</svg>

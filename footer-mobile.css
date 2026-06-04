@@ -1,0 +1,40 @@
+/* Footer mobile overrides — below 768px */
+@media (max-width: 767px) {
+  .footer-columns {
+    text-align: center;
+  }
+
+  .footer-heading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-social {
+    justify-content: center;
+  }
+
+  .footer-links {
+    align-items: center;
+  }
+
+  .footer-links a:hover,
+  .footer-links a.active {
+    padding-left: 0;
+  }
+
+  .footer-newsletter-text,
+  .footer-newsletter-form {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .footer-newsletter-form {
+    justify-content: center;
+  }
+
+  .footer-bottom-inner {
+    align-items: center;
+    text-align: center;
+  }
+}
