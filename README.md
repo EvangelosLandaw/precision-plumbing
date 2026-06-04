@@ -6,7 +6,7 @@ Single-page demo website for a WNC plumber. **Only navigation links are function
 
 - Static HTML, CSS, vanilla JS
 - No build step, no npm
-- Deploy target: Cloudflare Pages (`flw-2-0`)
+- Deploy target: Cloudflare Pages (`precision-plumbing`)
 
 ## Local preview
 
@@ -28,8 +28,10 @@ Open `http://localhost:3000` (or the port shown).
 
 ## Deploy
 
+**Live:** https://precision-plumbing-dry.pages.dev
+
 ```bash
-npx wrangler pages deploy . --project-name flw-2-0
+npx wrangler pages deploy . --project-name precision-plumbing --branch main
 ```
 
 Optional rsync staging:

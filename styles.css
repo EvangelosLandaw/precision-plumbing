@@ -132,22 +132,32 @@ body {
 .nav-links {
   display: none;
   align-items: center;
-  gap: 1.75rem;
+  gap: 2.25rem;
 }
 
 .nav-links a {
   font-family: var(--font-label);
-  font-size: 0.9rem;
-  letter-spacing: 0.08em;
+  font-size: clamp(1rem, 1.35vw, 1.15rem);
+  font-weight: 600;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  color: var(--color-muted);
+  color: var(--color-text);
   position: relative;
-  padding-bottom: 0.2rem;
+  padding-bottom: 0.25rem;
   transition: color 0.2s ease;
+}
+
+.site-nav.scrolled .nav-links a {
+  color: var(--color-muted);
 }
 
 .nav-links a:hover,
 .nav-links a.active {
+  color: var(--color-accent-bright);
+}
+
+.site-nav.scrolled .nav-links a:hover,
+.site-nav.scrolled .nav-links a.active {
   color: var(--color-text);
 }
 
